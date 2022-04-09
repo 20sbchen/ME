@@ -1,0 +1,14 @@
+1.vscode 国内镜像源链接：
+https://vscode.cdn.azure.cn/stable/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/VSCodeUserSetup-x64-1.57.0.exe
+（1）插件c/c++（mingw未必要） https://wss1.cn/f/80j32lswhkd 
+（2）python  https://wss1.cn/f/80mfbcyaj87 
+注：
+1.安装过程中尽量把选项都勾上
+2.若安装了[pycharm]可忽略vscode
+
+2.typora
+https://wss1.cn/f/80iepegkxt9 
+
+3.git
+https://git-scm.com/downloads
+
