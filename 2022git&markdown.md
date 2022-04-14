@@ -103,6 +103,9 @@ git commit -m "注释说明"	//注释的作用是告诉下载和浏览的用户�
 git remote rm origin
 git remote add origin 仓库地址
 
+git pull
+
+//
 git pull --rebase origin master		//进行代码合并
 
 git push -u origin master	//把当前分支 master 推送到远程
